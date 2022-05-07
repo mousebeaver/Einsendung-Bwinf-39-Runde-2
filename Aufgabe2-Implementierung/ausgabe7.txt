@@ -1,0 +1,28 @@
+Donald hat leider nicht genug Obstspiesse beobachtet. Es kann nicht eindeutig festgestellt werden, an welchen Schuesseln er sich anstellen muss.
+Im Folgenden wird fuer jede Schuessel angegeben, welche Obstsorten sich in ihr befinden koennten. Diese Mengen sind so klein wie moeglich.
+Schuessel Nr. 1: Kiwi 
+Schuessel Nr. 2: Feige Himbeere Orange Quitte 
+Schuessel Nr. 3: Apfel Grapefruit Xenia Litschi 
+Schuessel Nr. 4: Ingwer 
+Schuessel Nr. 5: Tamarinde Zitrone 
+Schuessel Nr. 6: Dattel Mango Vogelbeere 
+Schuessel Nr. 7: Nektarine 
+Schuessel Nr. 8: Sauerkirsche Yuzu 
+Schuessel Nr. 9: Pflaume Weintraube 
+Schuessel Nr. 10: Apfel Grapefruit Xenia Litschi 
+Schuessel Nr. 11: Feige Himbeere Orange Quitte 
+Schuessel Nr. 12: Johannisbeere Rosine 
+Schuessel Nr. 13: Feige Himbeere Orange Quitte 
+Schuessel Nr. 14: Sauerkirsche Yuzu 
+Schuessel Nr. 15: Erdbeere 
+Schuessel Nr. 16: Dattel Mango Vogelbeere 
+Schuessel Nr. 17: Dattel Mango Vogelbeere 
+Schuessel Nr. 18: Ugli Banane 
+Schuessel Nr. 19: Johannisbeere Rosine 
+Schuessel Nr. 20: Apfel Grapefruit Xenia Litschi 
+Schuessel Nr. 21: Pflaume Weintraube 
+Schuessel Nr. 22: Feige Himbeere Orange Quitte 
+Schuessel Nr. 23: Tamarinde Zitrone 
+Schuessel Nr. 24: Clementine 
+Schuessel Nr. 25: Ugli Banane 
+Schuessel Nr. 26: Apfel Grapefruit Xenia Litschi 

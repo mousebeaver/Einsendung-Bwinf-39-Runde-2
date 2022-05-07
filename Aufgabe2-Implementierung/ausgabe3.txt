@@ -1,0 +1,17 @@
+Donald hat leider nicht genug Obstspiesse beobachtet. Es kann nicht eindeutig festgestellt werden, an welchen Schuesseln er sich anstellen muss.
+Im Folgenden wird fuer jede Schuessel angegeben, welche Obstsorten sich in ihr befinden koennten. Diese Mengen sind so klein wie moeglich.
+Schuessel Nr. 1: Himbeere 
+Schuessel Nr. 2: Litschi Grapefruit 
+Schuessel Nr. 3: Orange 
+Schuessel Nr. 4: Nektarine 
+Schuessel Nr. 5: Clementine 
+Schuessel Nr. 6: Apfel Banane 
+Schuessel Nr. 7: Feige Ingwer 
+Schuessel Nr. 8: Erdbeere 
+Schuessel Nr. 9: Johannisbeere 
+Schuessel Nr. 10: Feige Ingwer 
+Schuessel Nr. 11: Litschi Grapefruit 
+Schuessel Nr. 12: Kiwi 
+Schuessel Nr. 13: Dattel 
+Schuessel Nr. 14: Apfel Banane 
+Schuessel Nr. 15: Es ist keine Obstsorte bekannt, die sich in dieser Schuessel befinden koennte.
